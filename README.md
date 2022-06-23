@@ -17,7 +17,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [github.com/banece/social-proof-section](https://github.com/banece/social-proof-section)
 - Live Site URL: []()
 
 ## My process
