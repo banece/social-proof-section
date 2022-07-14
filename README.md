@@ -18,7 +18,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [github.com/banece/social-proof-section](https://github.com/banece/social-proof-section)
-- Live Site URL: []()
+- Live Site URL: [banece.github.io/social-proof-section](https://banece.github.io/social-proof-section/)
 
 ## My process
 
@@ -32,11 +32,11 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### What I learned
 
-
+Using nth-of-.. to target different elements. Some more of semantic HTML5 definitions ( using q for quotes ). 
 
 ### Continued development
 
-
+Learning fully responsive designs, not just fixing them to different widths.
 
 ### Useful resources
 
